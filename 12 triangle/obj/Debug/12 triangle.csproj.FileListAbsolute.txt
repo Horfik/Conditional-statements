@@ -1,0 +1,6 @@
+D:\Myproject\Conditional Statement\12 triangle\bin\Debug\12 triangle.exe.config
+D:\Myproject\Conditional Statement\12 triangle\bin\Debug\12 triangle.exe
+D:\Myproject\Conditional Statement\12 triangle\bin\Debug\12 triangle.pdb
+D:\Myproject\Conditional Statement\12 triangle\obj\Debug\12 triangle.csproj.CoreCompileInputs.cache
+D:\Myproject\Conditional Statement\12 triangle\obj\Debug\12 triangle.exe
+D:\Myproject\Conditional Statement\12 triangle\obj\Debug\12 triangle.pdb

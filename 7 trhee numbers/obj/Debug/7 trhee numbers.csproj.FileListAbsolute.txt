@@ -1,0 +1,6 @@
+D:\Myproject\Conditional Statement\7 trhee numbers\bin\Debug\7 trhee numbers.exe.config
+D:\Myproject\Conditional Statement\7 trhee numbers\bin\Debug\7 trhee numbers.exe
+D:\Myproject\Conditional Statement\7 trhee numbers\bin\Debug\7 trhee numbers.pdb
+D:\Myproject\Conditional Statement\7 trhee numbers\obj\Debug\7 trhee numbers.csproj.CoreCompileInputs.cache
+D:\Myproject\Conditional Statement\7 trhee numbers\obj\Debug\7 trhee numbers.exe
+D:\Myproject\Conditional Statement\7 trhee numbers\obj\Debug\7 trhee numbers.pdb

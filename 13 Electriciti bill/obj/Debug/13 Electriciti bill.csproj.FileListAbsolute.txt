@@ -1,0 +1,6 @@
+D:\Myproject\Conditional Statement\13 Electriciti bill\bin\Debug\13 Electriciti bill.exe.config
+D:\Myproject\Conditional Statement\13 Electriciti bill\bin\Debug\13 Electriciti bill.exe
+D:\Myproject\Conditional Statement\13 Electriciti bill\bin\Debug\13 Electriciti bill.pdb
+D:\Myproject\Conditional Statement\13 Electriciti bill\obj\Debug\13 Electriciti bill.csproj.CoreCompileInputs.cache
+D:\Myproject\Conditional Statement\13 Electriciti bill\obj\Debug\13 Electriciti bill.exe
+D:\Myproject\Conditional Statement\13 Electriciti bill\obj\Debug\13 Electriciti bill.pdb

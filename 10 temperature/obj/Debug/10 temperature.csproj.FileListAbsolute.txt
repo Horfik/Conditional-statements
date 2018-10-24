@@ -1,0 +1,6 @@
+D:\Myproject\Conditional Statement\10 temperature\bin\Debug\10 temperature.exe.config
+D:\Myproject\Conditional Statement\10 temperature\bin\Debug\10 temperature.exe
+D:\Myproject\Conditional Statement\10 temperature\bin\Debug\10 temperature.pdb
+D:\Myproject\Conditional Statement\10 temperature\obj\Debug\10 temperature.csproj.CoreCompileInputs.cache
+D:\Myproject\Conditional Statement\10 temperature\obj\Debug\10 temperature.exe
+D:\Myproject\Conditional Statement\10 temperature\obj\Debug\10 temperature.pdb

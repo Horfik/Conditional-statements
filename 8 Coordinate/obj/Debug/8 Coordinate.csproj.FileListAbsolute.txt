@@ -1,0 +1,6 @@
+D:\Myproject\Conditional Statement\8 Coordinate\bin\Debug\8 Coordinate.exe.config
+D:\Myproject\Conditional Statement\8 Coordinate\bin\Debug\8 Coordinate.exe
+D:\Myproject\Conditional Statement\8 Coordinate\bin\Debug\8 Coordinate.pdb
+D:\Myproject\Conditional Statement\8 Coordinate\obj\Debug\8 Coordinate.csproj.CoreCompileInputs.cache
+D:\Myproject\Conditional Statement\8 Coordinate\obj\Debug\8 Coordinate.exe
+D:\Myproject\Conditional Statement\8 Coordinate\obj\Debug\8 Coordinate.pdb
