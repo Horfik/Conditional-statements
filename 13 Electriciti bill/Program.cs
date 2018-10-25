@@ -12,8 +12,8 @@ namespace _13_Electriciti_bill
         {
             public int ID;
             public string Name;
-            public int Unit;
-            public Bill(int id, string name, int unit)
+            public double Unit;
+            public Bill(int id, string name, double unit)
             {
                 ID = id;
                 Name = name;
@@ -39,7 +39,7 @@ namespace _13_Electriciti_bill
             Console.Write("enter customer name: ");
             String name = Console.ReadLine();
             Console.Write("enter customer unit: ");
-            int unit = Convert.ToInt32(Console.ReadLine());
+            double unit = Convert.ToDouble(Console.ReadLine());
             Bill bill = new Bill(Id, name, unit);
             double Charge;
             switch (unit / 200)

@@ -1,0 +1,6 @@
+C:\Users\user\Music\Conditional-statements\15 Day name\bin\Debug\15 Day name.exe.config
+C:\Users\user\Music\Conditional-statements\15 Day name\bin\Debug\15 Day name.exe
+C:\Users\user\Music\Conditional-statements\15 Day name\bin\Debug\15 Day name.pdb
+C:\Users\user\Music\Conditional-statements\15 Day name\obj\Debug\15 Day name.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Conditional-statements\15 Day name\obj\Debug\15 Day name.exe
+C:\Users\user\Music\Conditional-statements\15 Day name\obj\Debug\15 Day name.pdb

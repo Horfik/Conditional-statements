@@ -4,3 +4,9 @@ D:\Myproject\Conditional Statement\13 Electriciti bill\bin\Debug\13 Electriciti 
 D:\Myproject\Conditional Statement\13 Electriciti bill\obj\Debug\13 Electriciti bill.csproj.CoreCompileInputs.cache
 D:\Myproject\Conditional Statement\13 Electriciti bill\obj\Debug\13 Electriciti bill.exe
 D:\Myproject\Conditional Statement\13 Electriciti bill\obj\Debug\13 Electriciti bill.pdb
+C:\Users\user\Music\Conditional-statements\13 Electriciti bill\bin\Debug\13 Electriciti bill.exe.config
+C:\Users\user\Music\Conditional-statements\13 Electriciti bill\bin\Debug\13 Electriciti bill.exe
+C:\Users\user\Music\Conditional-statements\13 Electriciti bill\bin\Debug\13 Electriciti bill.pdb
+C:\Users\user\Music\Conditional-statements\13 Electriciti bill\obj\Debug\13 Electriciti bill.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Conditional-statements\13 Electriciti bill\obj\Debug\13 Electriciti bill.exe
+C:\Users\user\Music\Conditional-statements\13 Electriciti bill\obj\Debug\13 Electriciti bill.pdb

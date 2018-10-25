@@ -4,3 +4,9 @@ D:\Myproject\Conditional Statement\11 Type triangle\bin\Debug\11 Type triangle.e
 D:\Myproject\Conditional Statement\11 Type triangle\bin\Debug\11 Type triangle.pdb
 D:\Myproject\Conditional Statement\11 Type triangle\obj\Debug\11 Type triangle.exe
 D:\Myproject\Conditional Statement\11 Type triangle\obj\Debug\11 Type triangle.pdb
+C:\Users\user\Music\Conditional-statements\11 Type triangle\bin\Debug\11 Type triangle.exe.config
+C:\Users\user\Music\Conditional-statements\11 Type triangle\bin\Debug\11 Type triangle.exe
+C:\Users\user\Music\Conditional-statements\11 Type triangle\bin\Debug\11 Type triangle.pdb
+C:\Users\user\Music\Conditional-statements\11 Type triangle\obj\Debug\11 Type triangle.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Conditional-statements\11 Type triangle\obj\Debug\11 Type triangle.exe
+C:\Users\user\Music\Conditional-statements\11 Type triangle\obj\Debug\11 Type triangle.pdb

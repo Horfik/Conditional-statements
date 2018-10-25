@@ -4,3 +4,10 @@ D:\Myproject\Conditional Statement\Positive or negative\bin\Debug\Positive or ne
 D:\Myproject\Conditional Statement\Positive or negative\obj\Debug\2 Positive or negative.csproj.CoreCompileInputs.cache
 D:\Myproject\Conditional Statement\Positive or negative\obj\Debug\Positive or negative.exe
 D:\Myproject\Conditional Statement\Positive or negative\obj\Debug\Positive or negative.pdb
+C:\Users\user\Music\Conditional-statements\Positive or negative\bin\Debug\Positive or negative.exe.config
+C:\Users\user\Music\Conditional-statements\Positive or negative\bin\Debug\Positive or negative.exe
+C:\Users\user\Music\Conditional-statements\Positive or negative\bin\Debug\Positive or negative.pdb
+C:\Users\user\Music\Conditional-statements\Positive or negative\obj\Debug\2 Positive or negative.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Conditional-statements\Positive or negative\obj\Debug\Positive or negative.exe
+C:\Users\user\Music\Conditional-statements\Positive or negative\obj\Debug\Positive or negative.pdb
+C:\Users\user\Music\Conditional-statements\Positive or negative\obj\Debug\2 Positive or negative.csprojAssemblyReference.cache

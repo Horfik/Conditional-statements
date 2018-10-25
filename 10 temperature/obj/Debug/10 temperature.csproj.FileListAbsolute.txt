@@ -4,3 +4,9 @@ D:\Myproject\Conditional Statement\10 temperature\bin\Debug\10 temperature.pdb
 D:\Myproject\Conditional Statement\10 temperature\obj\Debug\10 temperature.csproj.CoreCompileInputs.cache
 D:\Myproject\Conditional Statement\10 temperature\obj\Debug\10 temperature.exe
 D:\Myproject\Conditional Statement\10 temperature\obj\Debug\10 temperature.pdb
+C:\Users\user\Music\Conditional-statements\10 temperature\bin\Debug\10 temperature.exe.config
+C:\Users\user\Music\Conditional-statements\10 temperature\bin\Debug\10 temperature.exe
+C:\Users\user\Music\Conditional-statements\10 temperature\bin\Debug\10 temperature.pdb
+C:\Users\user\Music\Conditional-statements\10 temperature\obj\Debug\10 temperature.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Conditional-statements\10 temperature\obj\Debug\10 temperature.exe
+C:\Users\user\Music\Conditional-statements\10 temperature\obj\Debug\10 temperature.pdb

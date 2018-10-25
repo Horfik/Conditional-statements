@@ -1,0 +1,6 @@
+C:\Users\user\Music\Conditional-statements\14 description\bin\Debug\14 description.exe.config
+C:\Users\user\Music\Conditional-statements\14 description\bin\Debug\14 description.exe
+C:\Users\user\Music\Conditional-statements\14 description\bin\Debug\14 description.pdb
+C:\Users\user\Music\Conditional-statements\14 description\obj\Debug\14 description.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Conditional-statements\14 description\obj\Debug\14 description.exe
+C:\Users\user\Music\Conditional-statements\14 description\obj\Debug\14 description.pdb

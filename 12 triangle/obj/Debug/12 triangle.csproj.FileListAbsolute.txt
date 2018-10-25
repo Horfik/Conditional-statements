@@ -4,3 +4,9 @@ D:\Myproject\Conditional Statement\12 triangle\bin\Debug\12 triangle.pdb
 D:\Myproject\Conditional Statement\12 triangle\obj\Debug\12 triangle.csproj.CoreCompileInputs.cache
 D:\Myproject\Conditional Statement\12 triangle\obj\Debug\12 triangle.exe
 D:\Myproject\Conditional Statement\12 triangle\obj\Debug\12 triangle.pdb
+C:\Users\user\Music\Conditional-statements\12 triangle\bin\Debug\12 triangle.exe.config
+C:\Users\user\Music\Conditional-statements\12 triangle\bin\Debug\12 triangle.exe
+C:\Users\user\Music\Conditional-statements\12 triangle\bin\Debug\12 triangle.pdb
+C:\Users\user\Music\Conditional-statements\12 triangle\obj\Debug\12 triangle.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Conditional-statements\12 triangle\obj\Debug\12 triangle.exe
+C:\Users\user\Music\Conditional-statements\12 triangle\obj\Debug\12 triangle.pdb

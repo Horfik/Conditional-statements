@@ -11,11 +11,11 @@ namespace _11_Type_triangle
         static void Main(string[] args)
         {
             Console.Write("Enter first side: ");
-            int a = Convert.ToInt32(Console.ReadLine());
+            double a = Convert.ToDouble(Console.ReadLine());
             Console.Write("Enter second side: ");
-            int b = Convert.ToInt32(Console.ReadLine());
+            double b = Convert.ToDouble(Console.ReadLine());
             Console.Write("Enter third side: ");
-            int c = Convert.ToInt32(Console.ReadLine());
+            double c = Convert.ToDouble(Console.ReadLine());
             if (a == b & a == c & c == b)
                 Console.WriteLine("triangle is Equilateral");
             else if (a == b || a == c || b == c)

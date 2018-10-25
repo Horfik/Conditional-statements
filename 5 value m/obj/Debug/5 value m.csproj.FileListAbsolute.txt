@@ -4,3 +4,9 @@ D:\Myproject\Conditional Statement\5 value m\bin\Debug\5 value m.pdb
 D:\Myproject\Conditional Statement\5 value m\obj\Debug\5 value m.csproj.CoreCompileInputs.cache
 D:\Myproject\Conditional Statement\5 value m\obj\Debug\5 value m.exe
 D:\Myproject\Conditional Statement\5 value m\obj\Debug\5 value m.pdb
+C:\Users\user\Music\Conditional-statements\5 value m\bin\Debug\5 value m.exe.config
+C:\Users\user\Music\Conditional-statements\5 value m\bin\Debug\5 value m.exe
+C:\Users\user\Music\Conditional-statements\5 value m\bin\Debug\5 value m.pdb
+C:\Users\user\Music\Conditional-statements\5 value m\obj\Debug\5 value m.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Conditional-statements\5 value m\obj\Debug\5 value m.exe
+C:\Users\user\Music\Conditional-statements\5 value m\obj\Debug\5 value m.pdb

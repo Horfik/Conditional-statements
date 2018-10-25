@@ -1,0 +1,6 @@
+C:\Users\user\Music\Conditional-statements\17 Month name\bin\Debug\17 Month name.exe.config
+C:\Users\user\Music\Conditional-statements\17 Month name\bin\Debug\17 Month name.exe
+C:\Users\user\Music\Conditional-statements\17 Month name\bin\Debug\17 Month name.pdb
+C:\Users\user\Music\Conditional-statements\17 Month name\obj\Debug\17 Month name.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Conditional-statements\17 Month name\obj\Debug\17 Month name.exe
+C:\Users\user\Music\Conditional-statements\17 Month name\obj\Debug\17 Month name.pdb

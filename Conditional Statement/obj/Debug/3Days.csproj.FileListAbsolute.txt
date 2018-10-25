@@ -4,3 +4,10 @@ D:\Myproject\Conditional Statement\Conditional Statement\bin\Debug\Conditional S
 D:\Myproject\Conditional Statement\Conditional Statement\obj\Debug\3Days.csproj.CoreCompileInputs.cache
 D:\Myproject\Conditional Statement\Conditional Statement\obj\Debug\Conditional Statement.exe
 D:\Myproject\Conditional Statement\Conditional Statement\obj\Debug\Conditional Statement.pdb
+C:\Users\user\Music\Conditional-statements\Conditional Statement\bin\Debug\Conditional Statement.exe.config
+C:\Users\user\Music\Conditional-statements\Conditional Statement\bin\Debug\Conditional Statement.exe
+C:\Users\user\Music\Conditional-statements\Conditional Statement\bin\Debug\Conditional Statement.pdb
+C:\Users\user\Music\Conditional-statements\Conditional Statement\obj\Debug\3Days.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Conditional-statements\Conditional Statement\obj\Debug\Conditional Statement.exe
+C:\Users\user\Music\Conditional-statements\Conditional Statement\obj\Debug\Conditional Statement.pdb
+C:\Users\user\Music\Conditional-statements\Conditional Statement\obj\Debug\3Days.csprojAssemblyReference.cache

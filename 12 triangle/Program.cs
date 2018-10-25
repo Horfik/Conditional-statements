@@ -10,13 +10,13 @@ namespace _12_triangle
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter first side: ");
-            int a = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter second side: ");
-            int b = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter third side: ");
-            int c = Convert.ToInt32(Console.ReadLine());
-            if (a + b > c && a + c > b && b + c > a)
+            Console.Write("Enter first angles: ");
+            double a = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Enter second angles: ");
+            double b = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Enter third angles: ");
+            double c = Convert.ToDouble(Console.ReadLine());
+            if (a+b+c == 180)
                 Console.WriteLine("triangle can be formed");
             else Console.WriteLine("triangle can't be formed");
             Console.ReadKey();

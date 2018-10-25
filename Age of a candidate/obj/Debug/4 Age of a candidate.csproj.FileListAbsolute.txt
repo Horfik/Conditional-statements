@@ -4,3 +4,10 @@ D:\Myproject\Conditional Statement\Age of a candidate\bin\Debug\Age of a candida
 D:\Myproject\Conditional Statement\Age of a candidate\obj\Debug\4 Age of a candidate.csproj.CoreCompileInputs.cache
 D:\Myproject\Conditional Statement\Age of a candidate\obj\Debug\Age of a candidate.exe
 D:\Myproject\Conditional Statement\Age of a candidate\obj\Debug\Age of a candidate.pdb
+C:\Users\user\Music\Conditional-statements\Age of a candidate\bin\Debug\Age of a candidate.exe.config
+C:\Users\user\Music\Conditional-statements\Age of a candidate\bin\Debug\Age of a candidate.exe
+C:\Users\user\Music\Conditional-statements\Age of a candidate\bin\Debug\Age of a candidate.pdb
+C:\Users\user\Music\Conditional-statements\Age of a candidate\obj\Debug\4 Age of a candidate.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Conditional-statements\Age of a candidate\obj\Debug\Age of a candidate.exe
+C:\Users\user\Music\Conditional-statements\Age of a candidate\obj\Debug\Age of a candidate.pdb
+C:\Users\user\Music\Conditional-statements\Age of a candidate\obj\Debug\4 Age of a candidate.csprojAssemblyReference.cache

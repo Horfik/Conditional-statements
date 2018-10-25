@@ -4,3 +4,10 @@ D:\Myproject\Conditional Statement\Equal integer numders\bin\Debug\Equal integer
 D:\Myproject\Conditional Statement\Equal integer numders\obj\Debug\1Equal integer numders.csproj.CoreCompileInputs.cache
 D:\Myproject\Conditional Statement\Equal integer numders\obj\Debug\Equal integer numders.exe
 D:\Myproject\Conditional Statement\Equal integer numders\obj\Debug\Equal integer numders.pdb
+C:\Users\user\Music\Conditional-statements\Equal integer numders\bin\Debug\Equal integer numders.exe.config
+C:\Users\user\Music\Conditional-statements\Equal integer numders\bin\Debug\Equal integer numders.exe
+C:\Users\user\Music\Conditional-statements\Equal integer numders\bin\Debug\Equal integer numders.pdb
+C:\Users\user\Music\Conditional-statements\Equal integer numders\obj\Debug\1Equal integer numders.csprojAssemblyReference.cache
+C:\Users\user\Music\Conditional-statements\Equal integer numders\obj\Debug\1Equal integer numders.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Conditional-statements\Equal integer numders\obj\Debug\Equal integer numders.exe
+C:\Users\user\Music\Conditional-statements\Equal integer numders\obj\Debug\Equal integer numders.pdb

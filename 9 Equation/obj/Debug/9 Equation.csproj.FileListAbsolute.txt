@@ -4,3 +4,9 @@ D:\Myproject\Conditional Statement\9 Equation\bin\Debug\9 Equation.exe
 D:\Myproject\Conditional Statement\9 Equation\bin\Debug\9 Equation.pdb
 D:\Myproject\Conditional Statement\9 Equation\obj\Debug\9 Equation.exe
 D:\Myproject\Conditional Statement\9 Equation\obj\Debug\9 Equation.pdb
+C:\Users\user\Music\Conditional-statements\9 Equation\bin\Debug\9 Equation.exe.config
+C:\Users\user\Music\Conditional-statements\9 Equation\bin\Debug\9 Equation.exe
+C:\Users\user\Music\Conditional-statements\9 Equation\bin\Debug\9 Equation.pdb
+C:\Users\user\Music\Conditional-statements\9 Equation\obj\Debug\9 Equation.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Conditional-statements\9 Equation\obj\Debug\9 Equation.exe
+C:\Users\user\Music\Conditional-statements\9 Equation\obj\Debug\9 Equation.pdb

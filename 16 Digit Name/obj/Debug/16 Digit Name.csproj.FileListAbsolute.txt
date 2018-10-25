@@ -1,0 +1,6 @@
+C:\Users\user\Music\Conditional-statements\16 Digit Name\bin\Debug\16 Digit Name.exe.config
+C:\Users\user\Music\Conditional-statements\16 Digit Name\bin\Debug\16 Digit Name.exe
+C:\Users\user\Music\Conditional-statements\16 Digit Name\bin\Debug\16 Digit Name.pdb
+C:\Users\user\Music\Conditional-statements\16 Digit Name\obj\Debug\16 Digit Name.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Conditional-statements\16 Digit Name\obj\Debug\16 Digit Name.exe
+C:\Users\user\Music\Conditional-statements\16 Digit Name\obj\Debug\16 Digit Name.pdb

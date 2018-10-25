@@ -11,20 +11,20 @@ namespace _10_temperature
         static void Main(string[] args)
         {
             Console.Write("Enter temperature: ");
-            int a = Convert.ToInt32(Console.ReadLine());
+            double a = Convert.ToDouble(Console.ReadLine());
             
-            switch (a/10)
+            switch (Math.Floor(a/10))
             {
-                case 0:
+                case 0 :
                     Console.WriteLine("Very Cold weather");
                     break;
-                case 1:
+                case 1 :
                     Console.WriteLine("Cold weather");
                     break;
-                case 2:
+                case 2 :
                     Console.WriteLine("Normal weather");
                     break;
-                case 3:
+                case 3 :
                     Console.WriteLine("Hot weather");
                     break;
                 default:

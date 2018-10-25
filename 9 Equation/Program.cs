@@ -10,14 +10,15 @@ namespace _9_Equation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ax^2+bx+c=result");
             Console.Write("Enter a: ");
-            int a = Convert.ToInt32(Console.ReadLine());
+            double a = Convert.ToDouble(Console.ReadLine());
             Console.Write("Enter b: ");
-            int b = Convert.ToInt32(Console.ReadLine());
+            double b = Convert.ToDouble(Console.ReadLine());
             Console.Write("Enter c: ");
-            int c = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter equally: ");
-            int d = Convert.ToInt32(Console.ReadLine());
+            double c = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Enter result: ");
+            double d = Convert.ToDouble(Console.ReadLine());
             if (b * b - 4 * a * (c - d) > 0)
                 Console.WriteLine("x1 = {0} and x2 = {1}", ((-b + Math.Sqrt(b * b - 4 * a * (c - d))) / (2 * a)), ((-b - Math.Sqrt(b * b - 4 * a * (c - d))) / (2 * a)));
             else if (b * b - 4 * a * (c - d) == 0)

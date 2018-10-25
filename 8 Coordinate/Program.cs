@@ -11,9 +11,9 @@ namespace _8_Coordinate
         static void Main(string[] args)
         {
             Console.Write("Enter first number: ");
-            int a = Convert.ToInt32(Console.ReadLine());
+            double a = Convert.ToDouble(Console.ReadLine());
             Console.Write("Enter second number: ");
-            int b = Convert.ToInt32(Console.ReadLine());
+            double b = Convert.ToDouble(Console.ReadLine());
             string n = a > 0 ? "+" : "-";
             if (a > 0 & b != 0)
                 Console.WriteLine(b > 0 ? "The coordinate point ({0}, {1}) lies in the First quadrant" : "The coordinate point ({0}, {1}) lies in the Second quadrant", a, b);
